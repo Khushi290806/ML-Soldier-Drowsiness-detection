@@ -1,0 +1,6 @@
+numpy>=1.26,<3.0
+pandas>=2.2
+scikit-learn>=1.4
+matplotlib>=3.7
+opencv-python==4.10.0.84
+joblib>=1.5
